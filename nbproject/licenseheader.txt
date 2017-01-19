@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}JUDE ARDYN C. BISMONTE
+${licensePrefix}2CSC-4 
+${licensePrefix}LAB EXERCISE #
+<#if licenseLast??>
+${licenseLast}
+</#if>
